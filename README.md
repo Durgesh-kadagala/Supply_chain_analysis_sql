@@ -37,3 +37,9 @@
 # Recommendations:
 * Optimize transportation modes and routes based on a combination of cost and shipping time metrics.
 * Adjust weights based on the supply chain strategy, whether cost optimization, speedy delivery, or a balanced approach
+
+
+<br>
+
+**Tables query :** [Click Here](https://github.com/Durgesh-kadagala/Supply_chain_analysis_sql/blob/main/creating_tables.sql)
+<br>**Analysis query :** [Click Here](https://github.com/Durgesh-kadagala/Supply_chain_analysis_sql/blob/main/Analysis.sql)
