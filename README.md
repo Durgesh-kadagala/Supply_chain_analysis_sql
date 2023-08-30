@@ -31,12 +31,14 @@
 
 # Insights:
 * Gained insights into product performance, inventory management, and shipping logistics.
-* Examined how defect rates can affect production volumes (indirectly linked with assumed supplier categories)
+* Examined how defect rates can affect production volumes (indirectly linked with assumed supplier categories).
+* Skincare products contributes more in revenue among all the products.
 
 
 # Recommendations:
 * Optimize transportation modes and routes based on a combination of cost and shipping time metrics.
-* Adjust weights based on the supply chain strategy, whether cost optimization, speedy delivery, or a balanced approach
+* Adjust weights based on the supply chain strategy, whether cost optimization, speedy delivery, or a balanced approach.
+* Check the quantity of the company-owned inventory.
 
 
 <br>
