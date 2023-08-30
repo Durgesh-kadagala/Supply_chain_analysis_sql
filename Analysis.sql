@@ -28,6 +28,16 @@ FROM cte
 GROUP BY product
 ORDER BY perc_revenue DESC;
 
+/*What is the distribution of product preferences among different customer demographics, and are there any notable trends or patterns?*/
+
+SELECT s.`Customer demographics`,p.`Product type`,COUNT(*) AS count_customers FROM sales s 
+JOIN products p ON s.SKU = p.SKU
+GROUP BY s.`Customer demographics`,p.`Product type`
+ORDER BY s.`Customer demographics`, count_customers DESC
+
+
+
+  
 /*Inventory and Production:
 
 
